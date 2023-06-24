@@ -1,0 +1,46 @@
+.pon {
+  background-color: rgb(252, 4, 4);
+  /* background-image: url(https://repository-images.githubusercontent.com/299409710/b42f7780-0fe1-11eb-8460-e459acd20fb4); */
+}
+.Em:focus + label,
+.Em:not(:placeholder-shown) + label {
+  top: 5px;
+  left: 250px;
+  font-size: small;
+}
+.rem {
+  color: aliceblue;
+  margin-top: 18px;
+  margin-left: -16px;
+  /* font-size: 20px; */
+}
+/* //----------------- */
+.log:focus + label,
+.log:not(:placeholder-shown) + label {
+  top: 19px;
+  left: 0px;
+  font-size: small;
+}
+/* -------------------- */
+.nav:hover {
+  background-color: rgba(209, 10, 10, 0.73);
+  padding: 2px;
+}
+/* ----------------------- */
+.backdata:hover {
+  width: 300px;
+  height: 250px;
+}
+.bgimage {
+  background-image: url("https://cdn.mos.cms.futurecdn.net/rDJegQJaCyGaYysj2g5XWY.jpg");
+  height: 100vh;
+}
+/* .imghov:hover ~ .profile {
+  display: block;
+}
+.profile {
+  display: none;
+}
+.profile:hover .sup {
+  display: block;
+} */

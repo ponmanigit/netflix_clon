@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.active {
+  background-color: aqua;
+}
+/* .img{
+    background: url(https://c1.wallpaperflare.com/preview/201/86/427/digital-signage-advertising-out-of-home-display.jpg);
+} */
+/* .img2{ */
+/* background: url(https://c0.wallpaperflare.com/preview/907/171/789/clothes-on-sale.jpg);
+} */
